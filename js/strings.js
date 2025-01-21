@@ -12,7 +12,7 @@ var HNfeats="&bull; Heynote's way of displaying notes on wallpaper will"
 var HNdesc="Add notes, lists and images to your home and lock screen wallpapers "
 +"<br> and never miss a note again.";
 
-var HNabout="This app is fully designed and developed by Shafik Ismail.<br>Copyright &#169; 2020-2022 by Shafik Ismail. All rights reserved."
+var HNabout="This app is fully designed and developed by Shfik Ismail.<br>Copyright &#169; 2020 by Shfik Ismail. All rights reserved."
 
 window.onload = function(){
 	document.getElementById('featuresP').innerHTML = HNfeats;
